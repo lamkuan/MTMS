@@ -1,4 +1,4 @@
 # MTMS
-Make things more simple.
+__Make things more simple.__
 
-Math, Algorithm, DataStructure more the knowledge more easy to understand.
+__Math, Algorithm, DataStructure more the knowledge more easy to understand.__
